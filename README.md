@@ -1,7 +1,3 @@
-![My favorite place that I want to visit once.](https://img.freepik.com/free-photo/landscape-shot-beautiful-valley-surrounded-by-huge-mountains-with-snowy-peaks_181624-4296.jpg?t=st=1718764510~exp=1718768110~hmac=6249009f5b3154eefa584714fc4dcdd4206ffc4636ba78a953778792ca3e4be8&w=1060)
-
-
-
 # Hi there, I'm Vinh Nguyen 👋
 
 # 💫 About Me:
