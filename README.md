@@ -1,7 +1,7 @@
 # Hi there, I'm Vinh Nguyen 👋
 
 # 💫 About Me:
-“Be grateful for your imperfections. It is thanks to them that you are alive and evolving.”<br><br>🔭 I am currently working on CryptoSphere.<br>👨‍🎓 A sophomore in Computer Science and Mathematics at TCU.<br>🏀 Besides coding, I love Basketball and 8 Ball Pool.<br>✨ Fun fact: My name is similar to the first syllable of the word "vintage".<br><br>
+“Be grateful for your imperfections. It is thanks to them that you are alive and evolving.”<br><br>🔭 I am currently working on CryptoSphere and Hogwarts Artifacts Online using Spring Boot and ThymeLeaf.<br>👨‍🎓 A sophomore in Computer Science and Mathematics at TCU.<br>🏀 Besides coding, I love Basketball and 8 Ball Pool.<br>✨ Fun fact: My name is similar to the first syllable of the word "vintage".<br><br>
 
 
 ## 🌐 Socials:
